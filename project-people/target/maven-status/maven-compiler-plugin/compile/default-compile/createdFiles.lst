@@ -1,0 +1,13 @@
+com\elotech\main\entities\ListaContatoEntity.class
+com\elotech\main\services\PessoaService.class
+com\elotech\main\dto\ListaContatoDTO.class
+com\elotech\main\controllers\PessoaController.class
+com\elotech\main\repositories\PessoaRepository.class
+com\elotech\main\repositories\ListaContatoRepository.class
+com\elotech\main\dto\PessoaDTO.class
+com\elotech\main\entities\ListaContatoEntity$ListaContatoEntityBuilder.class
+com\elotech\main\entities\PessoaEntity$PessoaEntityBuilder.class
+com\elotech\main\controllers\ListaContatoController.class
+com\elotech\main\ProjectPeopleApplication.class
+com\elotech\main\entities\PessoaEntity.class
+com\elotech\main\services\LIstaContatoService.class
